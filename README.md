@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer+%26+Automation+Enthusiast;Building+Full-Stack+Apps+with+Python+%26+JavaScript;Automating+Workflows+with+n8n;Turning+Ideas+Into+Deployed+Products&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=1000&color=58A6FF&vCenter=true&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer+%26+Automation+Enthusiast;Full-Stack+Dev+with+Python+%26+JavaScript;Automating+Workflows+with+n8n;Turning+Ideas+Into+Deployed+Products&font=Fira+Code&center=true&width=700&height=45&duration=3000&pause=1000&color=58A6FF&vCenter=true&size=20" />
 
 <br/>
 
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UtkarshJagga&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karshu&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
@@ -86,7 +86,6 @@
 | Project | Stack | Highlights |
 |---|---|---|
 | **Elite Home Furnishing** | Node.js, Express, PostgreSQL, n8n | Full factory site — storefront, admin panel, order tracking, WhatsApp/SMS/email notifications |
-| **TruckFlow** | Next.js, Express, PostgreSQL, Prisma, Socket.io, Google Maps | Live GPS truck tracking, OTP shipment verification, multi‑role dashboards |
 | **Food Ordering Platform** | Next.js, Express, PostgreSQL, Razorpay, n8n | Multi‑tenant restaurant support, admin approvals, payment integration |
 | **Insurance Claims Platform** | HTML/CSS/JS, n8n | Role‑based portals, auth flow, automated settlement notifications |
 
